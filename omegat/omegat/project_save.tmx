@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>**Semmalgil Code of Conduct**</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T002506Z" creationid="chabulhwi" creationdate="20211219T235329Z">
+        <seg>**셈말길 행동 수칙**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A lot of the harms of harassment and other violations can be mitigated by the victim knowing that the other people present are on their side.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T021026Z" creationid="chabulhwi" creationdate="20211220T020600Z">
+        <seg>괴롭힘이나 다른 위반 행위의 많은 피해는 피해자가 그 자리에 있는 다른 사람들이 자신의 편에 있음을 알면 경감할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All reports will be kept confidential.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T021130Z" creationid="chabulhwi" creationdate="20211220T021122Z">
+        <seg>모든 보고는 기밀에 부칠 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Even if we don’t have direct control over the violator, the community organizers can still support the people affected, reduce the chance of a similar violation in the future, and take any direct action we can.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T025453Z" creationid="chabulhwi" creationdate="20211220T015714Z">
+        <seg>비록 저희가 위반자를 직접 통제할 수 없더라도, 커뮤니티 조직자는 위반 행위의 영향을 받은 사람들을 지원하고, 비슷한 위반 행위가 미래에 일어날 가능성을 줄이고, 저희가 직접 할 수 있는 조치를 취할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expected behavior**
+• Exercise consideration and respect in your speech and actions.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211219T235912Z" creationid="chabulhwi" creationdate="20211219T235912Z">
+        <seg>요구되는 행동**
+• 언행에 배려와 존중을 담아 주십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T014730Z" creationid="chabulhwi" creationdate="20211220T014204Z">
+        <seg>받아들일 수 없는 행동에 커뮤니티 구성원이 참여하면, 커뮤니티 조직자는 적절하다고 여기는 어떤 조치도 취할 수 있습니다. 이 조치에는 일시적인 금지나 커뮤니티 영구 제명을 경고 없이(그리고 유료 행사의 경우 환불 없이) 하는 일까지 포함됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If someone outside the Semmalgil community (e.g. a user of Semmalgil's products or services) engages in unacceptable behavior that affects someone in the community, we still want to know.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T015348Z" creationid="chabulhwi" creationdate="20211220T015054Z">
+        <seg>셈말길 커뮤니티 밖에 있는 누군가(예: 셈말길의 제품 또는 서비스의 이용자)가 커뮤니티 안의 누군가에게 영향을 끼치는 받아들일 수 없는 행동에 참여할 때도, 저희는 이를 알고 싶습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you see something you can do while a violation is happening, do it.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T020713Z" creationid="chabulhwi" creationdate="20211220T020157Z">
+        <seg>위반 행위가 일어나는 동안 당신이 할 수 있는 일이 있다면 하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some cases, we may determine that a public statement will need to be made.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T021221Z" creationid="chabulhwi" creationdate="20211220T021221Z">
+        <seg>어떤 경우에는 저희가 공식 발표를 할 필요가 있다고 결정할 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In such cases, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T021448Z" creationid="chabulhwi" creationdate="20211220T021448Z">
+        <seg>그런 경우, 모든 피해자와 보고자의 신원은 그 개인이 저희에게 달리 지시하지 않는 한 계속 기밀에 부칠 것입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>License and attribution**
+This Code of Conduct is adapted from the [Zulip Code of Conduct](https://zulip.readthedocs.io/en/latest/code-of-conduct.html), and is under a [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T023434Z" creationid="chabulhwi" creationdate="20211220T023434Z">
+        <seg>허가증과 저작자 표시**
+이 행동 수칙은 [주립 행동 수칙](https://zulip.readthedocs.io/en/latest/code-of-conduct.html)을 개작한 것이며, [크리에이티브 커먼스 저작자표시-동일조건변경허락](https://creativecommons.org/licenses/by-sa/4.0/) 허가증의 적용을 받습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reporting and enforcement**
+If someone makes you or anyone else feel unsafe or unwelcome, please report it to chabulhwi@protonmail.ch as soon as possible.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T075733Z" creationid="chabulhwi" creationdate="20211220T013908Z">
+        <seg>보고 및 조치**
+누군가 당신이나 다른 사람을 불편하게 만들거나 당신이나 다른 사람이 원치 않는 행동을 하면, 가능한 한 빨리 [semmalgil@gmail.com](mailto:semmalgil@gmail.com)에 보고해 주십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reporting and enforcement**
+If someone makes you or anyone else feel unsafe or unwelcome, please report it to semmalgil@gmail.com as soon as possible.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211224T013904Z" creationid="chabulhwi" creationdate="20211220T094404Z">
+        <seg>보고 및 조치**
+누군가 당신 또는 다른 사람을 불편하게 만들거나, 당신 또는 다른 사람이 원치 않는 행동을 하면, 가능한 한 빨리 [semmalgil@gmail.com](mailto:semmalgil@gmail.com)에 보고해 주십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope**
+We expect all community participants (contributors, paid or otherwise, sponsors, and other guests) to abide by this Code of Conduct in all community venues, online and in-person, as well as in all private communications on community business.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T094506Z" creationid="chabulhwi" creationdate="20211220T022636Z">
+        <seg>범위**
+저희는 모든 커뮤니티 참여자(고용된 기여자나 다른 기여자, 후원자, 다른 손님)에게 — 온라인이든 대면이든 — 모든 커뮤니티 장소에서 또한 커뮤니티 업무에 대한 사적 대화에서 이 행동 수칙을 따를 것을 요구합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The nature of reporting means it can only help after the fact.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T020126Z" creationid="chabulhwi" creationdate="20211220T020126Z">
+        <seg>보고는 그 성격상 사실이 일어난 뒤에야 도움이 될 뿐입니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This Code of Conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T094511Z" creationid="chabulhwi" creationdate="20211220T023159Z">
+        <seg>커뮤니티 활동의 범위 밖에서 발생한 받아들일 수 없는 행동이 커뮤니티 구성원의 안전과 복리에 역영향을 줄 가능성이 있을 때, 이 행동 수칙 그리고 이와 관련 절차는 그런 행동에도 적용됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This includes sexualized comments or jokes, inappropriate touching or groping, and unwelcomed sexual advances.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T013049Z" creationid="chabulhwi" creationdate="20211220T013049Z">
+        <seg>여기에는 성적으로 된 언급이나 농담, 부적절한 접촉이나 더듬기, 원치 않는 성적 접근이 포함됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unacceptable behavior**
+• Jokes or derogatory language that singles out members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, language proficiency, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T030534Z" creationid="chabulhwi" creationdate="20211220T002428Z">
+        <seg>받아들일 수 없는 행동**
+• 어떤 인종, 민족성, 문화, 출신국, 피부색, 이민 자격, 사회적ㆍ경제적 계층, 교육 수준, 언어 능력, 성, 성적 지향, 젠더 정체성ㆍ표현, 나이, 신체 크기, 가족 관계, 정치적 신념, 종교, 정신적ㆍ신체적 능력에 해당하는 구성원을 지목하는 농담이나 경멸하는 말.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can make a report either personally or anonymously.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T014027Z" creationid="chabulhwi" creationdate="20211220T014027Z">
+        <seg>보고는 직접 또는 익명으로 하실 수 있습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Advocating for, or encouraging, any of the behaviors above.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T013530Z" creationid="chabulhwi" creationdate="20211220T013530Z">
+        <seg>• 위의 행위 가운데 어느 하나라도 지지하거나 부추기기.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Attempt collaboration before conflict.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T000328Z" creationid="chabulhwi" creationdate="20211220T000218Z">
+        <seg>• 갈등이 일어나기 전에 협력하려고 시도해 주십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Community event venues may be shared with members of the public; be respectful to all patrons of these locations.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T023753Z" creationid="chabulhwi" creationdate="20211220T002333Z">
+        <seg>• 커뮤니티 행사 장소는 일반 사람에게 공유할 수 있습니다. 그곳에 있는 모든 후원자를 정중하게 대하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Deliberate intimidation, stalking, or following (online or in-person).</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T011645Z" creationid="chabulhwi" creationdate="20211220T011630Z">
+        <seg>• 고의적인 위협, 스토킹, (온라인으로 또는 직접) 따라가기.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Disseminating or threatening to disseminate another person’s personal information.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T031116Z" creationid="chabulhwi" creationdate="20211220T010058Z">
+        <seg>• 다른 사람의 개인 정보를 퍼뜨리기. 또는 이를 퍼뜨리겠다는 협박.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Inappropriate photography or recording.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T011404Z" creationid="chabulhwi" creationdate="20211220T011404Z">
+        <seg>• 부적절한 사진 촬영이나 녹음.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Personal insults of any sort.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T010435Z" creationid="chabulhwi" creationdate="20211220T010435Z">
+        <seg>• 모든 종류의 인신공격.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Posting or displaying sexually explicit or violent material.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T011636Z" creationid="chabulhwi" creationdate="20211220T011324Z">
+        <seg>• 성적으로 노골적이거나 폭력적인 매체를 게시하거나 표시하기.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Refrain from demeaning, discriminatory, or harassing behavior and speech.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T000852Z" creationid="chabulhwi" creationdate="20211220T000852Z">
+        <seg>• 비하하거나, 차별적이거나, 괴롭히는 행동과 발언을 삼가 주십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Sustained disruption of community events, including talks and presentations.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T013320Z" creationid="chabulhwi" creationdate="20211220T013320Z">
+        <seg>• 회담과 발표를 포함한 커뮤니티 행사의 지속적인 방해.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Take action or alert community leaders if you notice a dangerous situation, someone in distress, or violations of this code, even if they seem inconsequential.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T020724Z" creationid="chabulhwi" creationdate="20211220T000917Z">
+        <seg>• 위험한 상황이나, 고통을 겪는 누군가나, 이 수칙의 위반 행위를 알게 되면 — 그 사항이 중요해 보이지 않더라도 — 조치를 취하거나 커뮤니티 지도자에게 알리십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Unwelcome sexual attention.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T011832Z" creationid="chabulhwi" creationdate="20211220T011832Z">
+        <seg>• 원치 않는 성적 관심.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>• Violence, threats of violence, or violent language directed against another person.</seg>
+      </tuv>
+      <tuv lang="ko" changeid="chabulhwi" changedate="20211220T024645Z" creationid="chabulhwi" creationdate="20211220T005148Z">
+        <seg>• 다른 사람을 향한 폭력, 그 사람에게 폭력을 쓰겠다는 협박, 그 사람을 향한 폭력적인 말.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

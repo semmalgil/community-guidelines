@@ -1,0 +1,14 @@
+1/9/22 6:29 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	      36	  546	                   3168	                  3675	     1	
+Remaining:       	       5	    5	                     20	                    20	     1	
+Unique:          	      36	  546	                   3168	                  3675	     1	
+Unique Remaining:	       5	    5	                     20	                    20	     1	
+
+
+Individual File Statistics:
+
+File Name          	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+code-of-conduct.txt	            36	                 5	             36	                        5	        546	              5	         546	                     5	                         3168	                               20	                          3168	                                      20	                        3675	                              20	                         3675	                                     20	
