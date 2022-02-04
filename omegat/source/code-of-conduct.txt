@@ -1,25 +1,25 @@
-**Semmalgil Code of Conduct**
+# Semmalgil Code of Conduct
 
-**1. Expected behavior**
-• Exercise consideration and respect in your speech and actions.
-• Attempt collaboration before conflict.
-• Refrain from demeaning, discriminatory, or harassing behavior and speech.
-• Take action or alert community leaders if you notice a dangerous situation, someone in distress, or violations of this code, even if they seem inconsequential.
-• Community event venues may be shared with members of the public; be respectful to all patrons of these locations.
+## 1. Expected behavior
+* Exercise consideration and respect in your speech and actions.
+* Attempt collaboration before conflict.
+* Refrain from demeaning, discriminatory, or harassing behavior and speech.
+* Take action or alert community leaders if you notice a dangerous situation, someone in distress, or violations of this code, even if they seem inconsequential.
+* Community event venues may be shared with members of the public; be respectful to all patrons of these locations.
 
-**2. Unacceptable behavior**
-• Jokes or derogatory language that singles out members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, language proficiency, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
-• Violence, threats of violence, or violent language directed against another person.
-• Disseminating or threatening to disseminate another person’s personal information.
-• Personal insults of any sort.
-• Posting or displaying sexually explicit or violent material.
-• Inappropriate photography or recording.
-• Deliberate intimidation, stalking, or following (online or in-person).
-• Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching or groping, and unwelcomed sexual advances.
-• Sustained disruption of community events, including talks and presentations.
-• Advocating for, or encouraging, any of the behaviors above.
+## 2. Unacceptable behavior
+* Jokes or derogatory language that singles out members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, language proficiency, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+* Violence, threats of violence, or violent language directed against another person.
+* Disseminating or threatening to disseminate another person’s personal information.
+* Personal insults of any sort.
+* Posting or displaying sexually explicit or violent material.
+* Inappropriate photography or recording.
+* Deliberate intimidation, stalking, or following (online or in-person).
+* Unwelcome sexual attention. This includes sexualized comments or jokes, inappropriate touching or groping, and unwelcomed sexual advances.
+* Sustained disruption of community events, including talks and presentations.
+* Advocating for, or encouraging, any of the behaviors above.
 
-**3. Reporting and enforcement**
+## 3. Reporting and enforcement
 If someone makes you or anyone else feel unsafe or unwelcome, please report it to semmalgil@gmail.com as soon as possible. You can make a report either personally or anonymously.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
@@ -30,10 +30,10 @@ The nature of reporting means it can only help after the fact. If you see someth
 
 All reports will be kept confidential. In some cases, we may determine that a public statement will need to be made. In such cases, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.
 
-**4. Scope**
+## 4. Scope
 We expect all community participants (contributors, paid or otherwise, sponsors, and other guests) to abide by this Code of Conduct in all community venues, online and in-person, as well as in all private communications on community business.
 
 This Code of Conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-**5. License and attribution**
+## 5. License and attribution
 This Code of Conduct is adapted from the [Zulip Code of Conduct](https://zulip.readthedocs.io/en/latest/code-of-conduct.html), and is under a [Creative Commons BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license.
